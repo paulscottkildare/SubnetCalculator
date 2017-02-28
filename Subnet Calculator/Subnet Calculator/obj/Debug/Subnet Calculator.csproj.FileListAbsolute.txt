@@ -1,0 +1,9 @@
+c:\users\scopaul\documents\visual studio 2012\Projects\Subnet Calculator\Subnet Calculator\bin\Debug\Subnet Calculator.exe.config
+c:\users\scopaul\documents\visual studio 2012\Projects\Subnet Calculator\Subnet Calculator\bin\Debug\Subnet Calculator.exe
+c:\users\scopaul\documents\visual studio 2012\Projects\Subnet Calculator\Subnet Calculator\bin\Debug\Subnet Calculator.pdb
+c:\users\scopaul\documents\visual studio 2012\Projects\Subnet Calculator\Subnet Calculator\obj\Debug\Subnet Calculator.csprojResolveAssemblyReference.cache
+c:\users\scopaul\documents\visual studio 2012\Projects\Subnet Calculator\Subnet Calculator\obj\Debug\Subnet_Calculator.Form1.resources
+c:\users\scopaul\documents\visual studio 2012\Projects\Subnet Calculator\Subnet Calculator\obj\Debug\Subnet_Calculator.Properties.Resources.resources
+c:\users\scopaul\documents\visual studio 2012\Projects\Subnet Calculator\Subnet Calculator\obj\Debug\Subnet Calculator.csproj.GenerateResource.Cache
+c:\users\scopaul\documents\visual studio 2012\Projects\Subnet Calculator\Subnet Calculator\obj\Debug\Subnet Calculator.exe
+c:\users\scopaul\documents\visual studio 2012\Projects\Subnet Calculator\Subnet Calculator\obj\Debug\Subnet Calculator.pdb
